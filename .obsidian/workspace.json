@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uninformed search (or, blind search).md",
+                "file": "Supervised Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uninformed search (or, blind search)"
+              "title": "Supervised Learning"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uninformed search (or, blind search).md",
+                "file": "Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uninformed search (or, blind search)"
+              "title": "Backlinks for Artificial Intelligence"
             }
           },
           {
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uninformed search (or, blind search).md",
+                "file": "Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uninformed search (or, blind search)"
+              "title": "Outgoing links from Artificial Intelligence"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uninformed search (or, blind search).md",
+                "file": "Artificial Intelligence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uninformed search (or, blind search)"
+              "title": "Outline of Artificial Intelligence"
             }
           }
         ]
@@ -248,11 +248,13 @@
   },
   "active": "aa9408593a683951",
   "lastOpenFiles": [
-    "Search.md",
-    "Artificial Intelligence.md",
-    "Informed search (or, heuristic search).md",
     "Uninformed search (or, blind search).md",
+    "Screenshot 2026-03-07 at 1.51.54 AM.png",
+    "Supervised Learning.md",
+    "Artificial Intelligence.md",
     "Arsalan Knowledge Base.md",
+    "Search.md",
+    "Informed search (or, heuristic search).md",
     "README.md",
     "Obsedian.md",
     "Technology.md",

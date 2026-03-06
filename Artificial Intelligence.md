@@ -7,8 +7,17 @@
 
 
 **Areas**
+  1:- Classical AI:
+    [[Search ]]
+  2:- Machine Learning:
+	  [[Supervised Learning]]
+	  [[Unsupervised Learning]]
+	  [[Recommender Systems]]
+	  [[Reinforcement Learning]]
+   3: Deep Learning
+   
 
-[[Search ]]
+
 
 
 
